@@ -55,6 +55,18 @@
       _____|_______
       |           |
      view        view
+     
+     
+  ## XML vs Java in Android 
+  
+  XML is the skeleton code which describes the  UI layout Java Drives this XML.
+            ________________________________
+  Example-: | When Submit is Clicked {     |
+            |Change Screen +Store the Data |
+            |}                             |
+            |______________________________|
+  
+  
            
  
  
