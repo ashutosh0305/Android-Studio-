@@ -61,7 +61,8 @@
   
   XML is the skeleton code which describes the  UI layout Java Drives this XML.
             
-  Example-:
+  Example-
+            
             ________________________________
             | When Submit is Clicked {     |
             |Change Screen +Store the Data |
