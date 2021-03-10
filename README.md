@@ -46,7 +46,16 @@
  
  View Group holds View and View Group(Just Like a  Box can hold  Objects and more boxes.
  
- 
+                                ViewGroup
+                                    |
+           _________________________|_____________________________
+           |                        |                            |
+         View Group                view                        view
+           |
+      _____|_______
+      |           |
+     view        view
+           
  
  
  
