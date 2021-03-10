@@ -28,6 +28,17 @@
  ![image](https://user-images.githubusercontent.com/71562703/110642788-5e9a7800-81d9-11eb-9071-3f045b321240.png)
 
  
+ ## What is APK ?
+ 
+ An APK is a collection of different files( like code , audio  ,video etc.) compiled and bundled into a single file.
+ 
+ 
+ ## What is AVD ?
+ 
+ AVD stands for Android Virtual Device AVD is an emulator configuration that simulates  a physical android device.
+ 
+ 
+ 
  
  
  
