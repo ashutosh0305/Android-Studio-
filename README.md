@@ -38,7 +38,7 @@
  AVD stands for Android Virtual Device AVD is an emulator configuration that simulates  a physical android device.
  
  
- ##Android UI layouts 
+ ## Android UI layouts 
  
  View are the base class for widgets ex- Buttons,Text Files etc.
  
